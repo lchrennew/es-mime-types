@@ -1,0 +1,12 @@
+{
+  "name": "es-mime-types",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Chun Li",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "files": [
+    "src"
+  ]
+}
